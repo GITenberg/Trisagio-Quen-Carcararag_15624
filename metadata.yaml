@@ -1,0 +1,26 @@
+_repo: Trisagio-Quen-Carcararag_15624
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fojas, Justo Claudio
+    gutenberg_agent_id: '6168'
+    url: http://www.gutenberg.org/2009/agents/6168
+description: ''
+gutenberg_issued: '2005-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15624'
+language: ilo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trinity'
+- !lcsh 'Novenas'
+- !lcsh 'Catholic Church -- Prayers and devotions -- Iloko'
+- !lcc 'BV'
+title: Trisagio Quen Carcararag
+url: http://www.gutenberg.org/ebooks/15624
